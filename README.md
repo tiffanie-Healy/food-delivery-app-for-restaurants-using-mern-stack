@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>food delivery app for restaurants</h2>
+  <h2>Food Delivery App for Restaurants</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -83,9 +83,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- food delivery app for restaurants Customer App
-- food delivery app for restaurants Rider App
-- food delivery app for restaurants Restaurant App
+- Food Delivery Customer App
+- Food Delivery Rider App
+- Food Delivery Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -197,7 +197,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the food delivery app for restaurants [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the Food Delivery App for Restaurants [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -227,4 +227,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for food delivery app for restaurants](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-delivery-app-for-restaurants)
+[Check out the Product Page and Pricing and more for Food Delivery App for Restaurants](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-delivery-app-for-restaurants)
